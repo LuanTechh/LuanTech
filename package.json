@@ -1,0 +1,16 @@
+{
+  "name": "luantech-astra6",
+  "version": "3.0.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo LuanTech Astra 6 listo para Netlify"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.0.2"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
